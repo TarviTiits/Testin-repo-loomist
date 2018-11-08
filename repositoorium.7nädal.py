@@ -9,4 +9,4 @@
 # 2. klooni kohalikku arvutisse, github desktop, git Kraken
 # repo admin vaatab pull request põhjal paralleelselt arendatud haru koodi üle ja kas siis nt asendab master harus asjad või mitte
 # valin millised failid ja siis committ
-# aga mis nüüd juhtub, kui uuendan lokaalselt? täitsa toimib see asi, github desktop saab aru, et fail muutub
+# aga mis nüüd juhtub, kui uuendan lokaalselt?
