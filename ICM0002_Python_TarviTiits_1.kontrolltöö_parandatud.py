@@ -77,4 +77,4 @@ def common_symbols(string1, string2):
         j = j + 1
     print(str(mitmel_korral_samas_kohas) + "," + str(mitu_samasugust_sümbolit))
         
-        #Ja nüüd testin, sest see ei meeldi mulle ja siis kustutan ärr
+        #Testin ja teen siia suvalise kommentaar-täienduse
